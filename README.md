@@ -1,4 +1,4 @@
-# Article-TRTH-R-TRTHinR
+# Article.TRTH.R.TRTHinR
 This R script use the **httr** package to retrieve data from Thomson Reuters Tick History REST APIs.
 It is part of an educational articles [TRTH in R](https://developers.thomsonreuters.com/articles-samples)
 
