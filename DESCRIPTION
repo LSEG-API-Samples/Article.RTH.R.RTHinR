@@ -4,7 +4,7 @@ Title: RTH in R (Title Case)
 Version: 0.1.0
 Author: Warat Boonyanit
 Maintainer: Warat Boonyanit <Warat.boonyanit@refinitiv.com>
-Description: This R package use the httr to retrieve data from Thomson Reuters Tick History REST APIs.
+Description: This R package use the httr to retrieve data from Refinitiv Tick History REST APIs.
     It is part of an educational articles RTH in R (https://developers.refinitiv.com/)
 License: TODO
 Encoding: UTF-8
